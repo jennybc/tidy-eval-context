@@ -6,8 +6,8 @@ talk for [rstudio::conf 2019](https://www.rstudio.com/conference/), 2019 January
 
 Slides:
 
-  * As a PDF in this repo: *link to come*
-  * On Speaker Deck: *link to come*
+  * On Speaker Deck: <https://speakerdeck.com/jennybc/tidy-eval-in-context>
+  * As a PDF in this repo: [tidy-eval-context.pdf](tidy-eval-context.pdf)
 
 ### References
 
